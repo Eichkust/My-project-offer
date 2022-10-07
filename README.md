@@ -2,7 +2,7 @@
 
 1. In Easy-text-calc
 
-What will happen in the future of PTK?
+What will happen in the future of ETC?
 
 1. Functions to cancel work for calculations and continue, at the request of the user.
 2. The function of returning to the main menu of the application.
